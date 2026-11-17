@@ -248,11 +248,6 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
-## License
-
-See [LICENSE][stdlib-license].
-
-
 ## Copyright
 
 Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
@@ -298,8 +293,6 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/blas-ext-base-gfirst-index-almost-equal/tree/esm
 [esm-readme]: https://github.com/stdlib-js/blas-ext-base-gfirst-index-almost-equal/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/blas-ext-base-gfirst-index-almost-equal/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/blas-ext-base-gfirst-index-almost-equal/main/LICENSE
 
 [mdn-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
